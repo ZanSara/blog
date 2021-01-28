@@ -58,7 +58,8 @@ html {
   padding: 2rem 1rem;
   color: rgba(255,255,255,1);
   /*background-color: #202020; */
-  background-image: url("https://raw.githubusercontent.com/ZanSara/hyde/gh-pages/public/rifugio-verde.jpeg") no-repeat cover;
+  background-image: url("https://raw.githubusercontent.com/ZanSara/hyde/gh-pages/public/rifugio-verde.jpeg");
+  background-size: cover;
 }
 @media (min-width: 48em) {
   .sidebar {
@@ -130,14 +131,14 @@ a.sidebar-nav-item:focus {
 @media (min-width: 48em) {
   .content {
     max-width: 38rem;
-    margin-left: 30%;
+    margin-left: 35%;
     margin-right: 2rem;
   }
 }
 
 @media (min-width: 64em) {
   .content {
-    margin-left: 30%;
+    margin-left: 35%;
     margin-right: 4rem;
   }
 }
@@ -156,14 +157,14 @@ a.sidebar-nav-item:focus {
   }
   .layout-reverse .content {
     margin-left: 2rem;
-    margin-right: 30%;
+    margin-right: 35%;
   }
 }
 
 @media (min-width: 64em) {
   .layout-reverse .content {
     margin-left: 4rem;
-    margin-right: 30%;
+    margin-right: 35%;
   }
 }
 
