@@ -16,7 +16,7 @@ title:            New Blog
 tagline:          'A new blog'
 description:      'Just an experiment building a new blog'
 url:              https://zansara.github.io/hyde/
-baseurl:          /hyde
+baseurl:          '/hyde/'
 
 author:
   name:           'ZanSara'
