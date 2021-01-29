@@ -30,8 +30,8 @@ url: https://zansara.github.io/
 baseurl:          '/blog/'
 
 # Dependencies
-markdown:         redcarpet
-highlighter:      pygments
+#markdown:         redcarpet
+#highlighter:      pygments
 
 # Permalinks
 permalink:        pretty
